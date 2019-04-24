@@ -2,7 +2,7 @@
 #include<stdlib.h>
 
 /*
-algoritmo: exemplo de resolucao de uma equacao do segundo grau.
+algoritmo: exemplo simples de uma Equacao do segundo grau.
 autor: André Nas
 email: andrenascontato@gmail.com
 ano: 10/04/2019

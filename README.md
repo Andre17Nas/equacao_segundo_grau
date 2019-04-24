@@ -1,1 +1,1 @@
-"equacao_segundo_grau" 
+Exemplo de uma equação de segundo grau utilizando C/C++
